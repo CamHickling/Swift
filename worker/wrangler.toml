@@ -1,0 +1,7 @@
+name = "swift-strava-auth"
+main = "index.js"
+compatibility_date = "2024-01-01"
+
+# Environment variables (set these via wrangler secret or dashboard)
+# STRAVA_CLIENT_ID - Your Strava API client ID
+# STRAVA_CLIENT_SECRET - Your Strava API client secret
